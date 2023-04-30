@@ -1,0 +1,24 @@
+/*PLANILLA HORARIOS*/
+.horario_dia{
+    background-color: cornflowerblue;
+    font-weight: bolder;
+    font-size: 23px;
+}
+.horario_horario{
+    background-color: cornflowerblue;
+    font-style: italic;
+    font-size: 23px;
+    font-weight: lighter;
+}
+.lunes,.martes,.miercoles,.jueves,.viernes,.sabado,.domingo{
+    font-size: 23px;
+}
+.lunes,.horario_lunes,.viernes,.horario_viernes{
+    color:rgb(99, 98, 98);
+}
+.martes,.miercoles,.jueves,.horario_martes{
+    color: cornflowerblue;
+}
+.sabado,.domingo,.horario_sabado{
+    color: crimson;
+}
